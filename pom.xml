@@ -5,10 +5,7 @@
   <artifactId>hello</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>hello</name>
-
-  
-	<properties>
+  <name>hello</name> <properties>
 <project.build.sourceEncoding>
 UTF-8
 </project.build.sourceEncoding>
